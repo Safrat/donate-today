@@ -111,6 +111,23 @@ p {
     color: aliceblue;
 }
 
+#upcoming {
+    text-align: center;
+    color: brown;
+}
+
+.flexible-container-3 {
+    display: flex;
+    margin-left: 20%;
+}
+
+.upcoming-items {
+    padding: 40px 60px;
+    border-radius: 10px;
+    background-color: #ccfcec;
+    margin: 5px;
+}
+
 #colour {
     background-color: salmon;
 }
