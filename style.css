@@ -1,0 +1,154 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.donate-for-people {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.donate {
+    text-align: center;
+    color: azure;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(salmon, red);
+    margin-bottom: 30px;
+
+    color: aliceblue;
+}
+
+#set {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.donate-today {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.flexible-container {
+    display: flex;
+    padding-left: 400px;
+
+}
+
+.flexible-container-1 {
+    display: flex;
+    padding-left: 80px;
+    margin-right: 80px;
+    padding-right: 80px;
+    margin-left: 80px;
+}
+
+.flexible-container-2 {
+    display: flex;
+}
+
+.mercy {
+    width: 50%;
+    padding: 8%;
+
+}
+
+.mercy img {
+    width: 85%;
+    height: 450px;
+    padding-right: 30px;
+
+}
+
+.send-money {
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+.border-block {
+    padding: 30px 30px;
+    background-color: rgb(209, 215, 219);
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.email-box {
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: beige;
+    padding: 30px 50px;
+    padding-left: 60px;
+}
+
+.email {
+    background-color: rgb(168, 166, 166);
+    padding: 10px 30px;
+}
+
+.subscribe {
+    background-image: linear-gradient(salmon, red);
+    padding: 10px 30px;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+#colour {
+    background-color: salmon;
+}
+
+.donate-plan {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.donate-item {
+    padding: 30px;
+    background-color: rgb(255, 255, 206);
+    margin: 20px;
+    padding-left: 20px;
+}
+
+#food {
+    padding-right: 10px;
+}
+
+#shelter {
+    background-color: rgb(198, 198, 252);
+}
+
+#education {
+    background-color: rgb(252, 235, 237);
+    padding-right: 5px;
+}
+
+footer {
+    padding: 30px 30px;
+    background-color: rgb(5, 5, 80);
+    margin-top: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#text {
+    color: salmon;
+    font-style: oblique;
+}
