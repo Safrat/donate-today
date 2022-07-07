@@ -11,6 +11,11 @@ body {
 
 }
 
+hr {
+    width: 50%;
+    margin-bottom: 30px;
+}
+
 .donate {
     text-align: center;
     color: azure;
